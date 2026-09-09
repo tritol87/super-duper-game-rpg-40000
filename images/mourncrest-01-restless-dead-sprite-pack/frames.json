@@ -1,0 +1,1156 @@
+{
+  "frames": [
+    {
+      "name": "skeleton_walk_south_0",
+      "sheet": "64x64/sheets/skeleton_sheet.png",
+      "x": 0,
+      "y": 0,
+      "w": 64,
+      "h": 64
+    },
+    {
+      "name": "skeleton_walk_south_1",
+      "sheet": "64x64/sheets/skeleton_sheet.png",
+      "x": 64,
+      "y": 0,
+      "w": 64,
+      "h": 64
+    },
+    {
+      "name": "skeleton_walk_south_2",
+      "sheet": "64x64/sheets/skeleton_sheet.png",
+      "x": 128,
+      "y": 0,
+      "w": 64,
+      "h": 64
+    },
+    {
+      "name": "skeleton_walk_west_0",
+      "sheet": "64x64/sheets/skeleton_sheet.png",
+      "x": 0,
+      "y": 64,
+      "w": 64,
+      "h": 64
+    },
+    {
+      "name": "skeleton_walk_west_1",
+      "sheet": "64x64/sheets/skeleton_sheet.png",
+      "x": 64,
+      "y": 64,
+      "w": 64,
+      "h": 64
+    },
+    {
+      "name": "skeleton_walk_west_2",
+      "sheet": "64x64/sheets/skeleton_sheet.png",
+      "x": 128,
+      "y": 64,
+      "w": 64,
+      "h": 64
+    },
+    {
+      "name": "skeleton_walk_east_0",
+      "sheet": "64x64/sheets/skeleton_sheet.png",
+      "x": 0,
+      "y": 128,
+      "w": 64,
+      "h": 64
+    },
+    {
+      "name": "skeleton_walk_east_1",
+      "sheet": "64x64/sheets/skeleton_sheet.png",
+      "x": 64,
+      "y": 128,
+      "w": 64,
+      "h": 64
+    },
+    {
+      "name": "skeleton_walk_east_2",
+      "sheet": "64x64/sheets/skeleton_sheet.png",
+      "x": 128,
+      "y": 128,
+      "w": 64,
+      "h": 64
+    },
+    {
+      "name": "skeleton_walk_north_0",
+      "sheet": "64x64/sheets/skeleton_sheet.png",
+      "x": 0,
+      "y": 192,
+      "w": 64,
+      "h": 64
+    },
+    {
+      "name": "skeleton_walk_north_1",
+      "sheet": "64x64/sheets/skeleton_sheet.png",
+      "x": 64,
+      "y": 192,
+      "w": 64,
+      "h": 64
+    },
+    {
+      "name": "skeleton_walk_north_2",
+      "sheet": "64x64/sheets/skeleton_sheet.png",
+      "x": 128,
+      "y": 192,
+      "w": 64,
+      "h": 64
+    },
+    {
+      "name": "wraith_walk_south_0",
+      "sheet": "64x64/sheets/wraith_sheet.png",
+      "x": 0,
+      "y": 0,
+      "w": 64,
+      "h": 64
+    },
+    {
+      "name": "wraith_walk_south_1",
+      "sheet": "64x64/sheets/wraith_sheet.png",
+      "x": 64,
+      "y": 0,
+      "w": 64,
+      "h": 64
+    },
+    {
+      "name": "wraith_walk_south_2",
+      "sheet": "64x64/sheets/wraith_sheet.png",
+      "x": 128,
+      "y": 0,
+      "w": 64,
+      "h": 64
+    },
+    {
+      "name": "wraith_walk_west_0",
+      "sheet": "64x64/sheets/wraith_sheet.png",
+      "x": 0,
+      "y": 64,
+      "w": 64,
+      "h": 64
+    },
+    {
+      "name": "wraith_walk_west_1",
+      "sheet": "64x64/sheets/wraith_sheet.png",
+      "x": 64,
+      "y": 64,
+      "w": 64,
+      "h": 64
+    },
+    {
+      "name": "wraith_walk_west_2",
+      "sheet": "64x64/sheets/wraith_sheet.png",
+      "x": 128,
+      "y": 64,
+      "w": 64,
+      "h": 64
+    },
+    {
+      "name": "wraith_walk_east_0",
+      "sheet": "64x64/sheets/wraith_sheet.png",
+      "x": 0,
+      "y": 128,
+      "w": 64,
+      "h": 64
+    },
+    {
+      "name": "wraith_walk_east_1",
+      "sheet": "64x64/sheets/wraith_sheet.png",
+      "x": 64,
+      "y": 128,
+      "w": 64,
+      "h": 64
+    },
+    {
+      "name": "wraith_walk_east_2",
+      "sheet": "64x64/sheets/wraith_sheet.png",
+      "x": 128,
+      "y": 128,
+      "w": 64,
+      "h": 64
+    },
+    {
+      "name": "wraith_walk_north_0",
+      "sheet": "64x64/sheets/wraith_sheet.png",
+      "x": 0,
+      "y": 192,
+      "w": 64,
+      "h": 64
+    },
+    {
+      "name": "wraith_walk_north_1",
+      "sheet": "64x64/sheets/wraith_sheet.png",
+      "x": 64,
+      "y": 192,
+      "w": 64,
+      "h": 64
+    },
+    {
+      "name": "wraith_walk_north_2",
+      "sheet": "64x64/sheets/wraith_sheet.png",
+      "x": 128,
+      "y": 192,
+      "w": 64,
+      "h": 64
+    },
+    {
+      "name": "ghoul_walk_south_0",
+      "sheet": "64x64/sheets/ghoul_sheet.png",
+      "x": 0,
+      "y": 0,
+      "w": 64,
+      "h": 64
+    },
+    {
+      "name": "ghoul_walk_south_1",
+      "sheet": "64x64/sheets/ghoul_sheet.png",
+      "x": 64,
+      "y": 0,
+      "w": 64,
+      "h": 64
+    },
+    {
+      "name": "ghoul_walk_south_2",
+      "sheet": "64x64/sheets/ghoul_sheet.png",
+      "x": 128,
+      "y": 0,
+      "w": 64,
+      "h": 64
+    },
+    {
+      "name": "ghoul_walk_west_0",
+      "sheet": "64x64/sheets/ghoul_sheet.png",
+      "x": 0,
+      "y": 64,
+      "w": 64,
+      "h": 64
+    },
+    {
+      "name": "ghoul_walk_west_1",
+      "sheet": "64x64/sheets/ghoul_sheet.png",
+      "x": 64,
+      "y": 64,
+      "w": 64,
+      "h": 64
+    },
+    {
+      "name": "ghoul_walk_west_2",
+      "sheet": "64x64/sheets/ghoul_sheet.png",
+      "x": 128,
+      "y": 64,
+      "w": 64,
+      "h": 64
+    },
+    {
+      "name": "ghoul_walk_east_0",
+      "sheet": "64x64/sheets/ghoul_sheet.png",
+      "x": 0,
+      "y": 128,
+      "w": 64,
+      "h": 64
+    },
+    {
+      "name": "ghoul_walk_east_1",
+      "sheet": "64x64/sheets/ghoul_sheet.png",
+      "x": 64,
+      "y": 128,
+      "w": 64,
+      "h": 64
+    },
+    {
+      "name": "ghoul_walk_east_2",
+      "sheet": "64x64/sheets/ghoul_sheet.png",
+      "x": 128,
+      "y": 128,
+      "w": 64,
+      "h": 64
+    },
+    {
+      "name": "ghoul_walk_north_0",
+      "sheet": "64x64/sheets/ghoul_sheet.png",
+      "x": 0,
+      "y": 192,
+      "w": 64,
+      "h": 64
+    },
+    {
+      "name": "ghoul_walk_north_1",
+      "sheet": "64x64/sheets/ghoul_sheet.png",
+      "x": 64,
+      "y": 192,
+      "w": 64,
+      "h": 64
+    },
+    {
+      "name": "ghoul_walk_north_2",
+      "sheet": "64x64/sheets/ghoul_sheet.png",
+      "x": 128,
+      "y": 192,
+      "w": 64,
+      "h": 64
+    },
+    {
+      "name": "wight_walk_south_0",
+      "sheet": "64x64/sheets/wight_sheet.png",
+      "x": 0,
+      "y": 0,
+      "w": 64,
+      "h": 64
+    },
+    {
+      "name": "wight_walk_south_1",
+      "sheet": "64x64/sheets/wight_sheet.png",
+      "x": 64,
+      "y": 0,
+      "w": 64,
+      "h": 64
+    },
+    {
+      "name": "wight_walk_south_2",
+      "sheet": "64x64/sheets/wight_sheet.png",
+      "x": 128,
+      "y": 0,
+      "w": 64,
+      "h": 64
+    },
+    {
+      "name": "wight_walk_west_0",
+      "sheet": "64x64/sheets/wight_sheet.png",
+      "x": 0,
+      "y": 64,
+      "w": 64,
+      "h": 64
+    },
+    {
+      "name": "wight_walk_west_1",
+      "sheet": "64x64/sheets/wight_sheet.png",
+      "x": 64,
+      "y": 64,
+      "w": 64,
+      "h": 64
+    },
+    {
+      "name": "wight_walk_west_2",
+      "sheet": "64x64/sheets/wight_sheet.png",
+      "x": 128,
+      "y": 64,
+      "w": 64,
+      "h": 64
+    },
+    {
+      "name": "wight_walk_east_0",
+      "sheet": "64x64/sheets/wight_sheet.png",
+      "x": 0,
+      "y": 128,
+      "w": 64,
+      "h": 64
+    },
+    {
+      "name": "wight_walk_east_1",
+      "sheet": "64x64/sheets/wight_sheet.png",
+      "x": 64,
+      "y": 128,
+      "w": 64,
+      "h": 64
+    },
+    {
+      "name": "wight_walk_east_2",
+      "sheet": "64x64/sheets/wight_sheet.png",
+      "x": 128,
+      "y": 128,
+      "w": 64,
+      "h": 64
+    },
+    {
+      "name": "wight_walk_north_0",
+      "sheet": "64x64/sheets/wight_sheet.png",
+      "x": 0,
+      "y": 192,
+      "w": 64,
+      "h": 64
+    },
+    {
+      "name": "wight_walk_north_1",
+      "sheet": "64x64/sheets/wight_sheet.png",
+      "x": 64,
+      "y": 192,
+      "w": 64,
+      "h": 64
+    },
+    {
+      "name": "wight_walk_north_2",
+      "sheet": "64x64/sheets/wight_sheet.png",
+      "x": 128,
+      "y": 192,
+      "w": 64,
+      "h": 64
+    },
+    {
+      "name": "gravebound_walk_south_0",
+      "sheet": "64x64/sheets/gravebound_sheet.png",
+      "x": 0,
+      "y": 0,
+      "w": 64,
+      "h": 64
+    },
+    {
+      "name": "gravebound_walk_south_1",
+      "sheet": "64x64/sheets/gravebound_sheet.png",
+      "x": 64,
+      "y": 0,
+      "w": 64,
+      "h": 64
+    },
+    {
+      "name": "gravebound_walk_south_2",
+      "sheet": "64x64/sheets/gravebound_sheet.png",
+      "x": 128,
+      "y": 0,
+      "w": 64,
+      "h": 64
+    },
+    {
+      "name": "gravebound_walk_west_0",
+      "sheet": "64x64/sheets/gravebound_sheet.png",
+      "x": 0,
+      "y": 64,
+      "w": 64,
+      "h": 64
+    },
+    {
+      "name": "gravebound_walk_west_1",
+      "sheet": "64x64/sheets/gravebound_sheet.png",
+      "x": 64,
+      "y": 64,
+      "w": 64,
+      "h": 64
+    },
+    {
+      "name": "gravebound_walk_west_2",
+      "sheet": "64x64/sheets/gravebound_sheet.png",
+      "x": 128,
+      "y": 64,
+      "w": 64,
+      "h": 64
+    },
+    {
+      "name": "gravebound_walk_east_0",
+      "sheet": "64x64/sheets/gravebound_sheet.png",
+      "x": 0,
+      "y": 128,
+      "w": 64,
+      "h": 64
+    },
+    {
+      "name": "gravebound_walk_east_1",
+      "sheet": "64x64/sheets/gravebound_sheet.png",
+      "x": 64,
+      "y": 128,
+      "w": 64,
+      "h": 64
+    },
+    {
+      "name": "gravebound_walk_east_2",
+      "sheet": "64x64/sheets/gravebound_sheet.png",
+      "x": 128,
+      "y": 128,
+      "w": 64,
+      "h": 64
+    },
+    {
+      "name": "gravebound_walk_north_0",
+      "sheet": "64x64/sheets/gravebound_sheet.png",
+      "x": 0,
+      "y": 192,
+      "w": 64,
+      "h": 64
+    },
+    {
+      "name": "gravebound_walk_north_1",
+      "sheet": "64x64/sheets/gravebound_sheet.png",
+      "x": 64,
+      "y": 192,
+      "w": 64,
+      "h": 64
+    },
+    {
+      "name": "gravebound_walk_north_2",
+      "sheet": "64x64/sheets/gravebound_sheet.png",
+      "x": 128,
+      "y": 192,
+      "w": 64,
+      "h": 64
+    },
+    {
+      "name": "boneHound_walk_south_0",
+      "sheet": "64x64/sheets/boneHound_sheet.png",
+      "x": 0,
+      "y": 0,
+      "w": 64,
+      "h": 64
+    },
+    {
+      "name": "boneHound_walk_south_1",
+      "sheet": "64x64/sheets/boneHound_sheet.png",
+      "x": 64,
+      "y": 0,
+      "w": 64,
+      "h": 64
+    },
+    {
+      "name": "boneHound_walk_south_2",
+      "sheet": "64x64/sheets/boneHound_sheet.png",
+      "x": 128,
+      "y": 0,
+      "w": 64,
+      "h": 64
+    },
+    {
+      "name": "boneHound_walk_west_0",
+      "sheet": "64x64/sheets/boneHound_sheet.png",
+      "x": 0,
+      "y": 64,
+      "w": 64,
+      "h": 64
+    },
+    {
+      "name": "boneHound_walk_west_1",
+      "sheet": "64x64/sheets/boneHound_sheet.png",
+      "x": 64,
+      "y": 64,
+      "w": 64,
+      "h": 64
+    },
+    {
+      "name": "boneHound_walk_west_2",
+      "sheet": "64x64/sheets/boneHound_sheet.png",
+      "x": 128,
+      "y": 64,
+      "w": 64,
+      "h": 64
+    },
+    {
+      "name": "boneHound_walk_east_0",
+      "sheet": "64x64/sheets/boneHound_sheet.png",
+      "x": 0,
+      "y": 128,
+      "w": 64,
+      "h": 64
+    },
+    {
+      "name": "boneHound_walk_east_1",
+      "sheet": "64x64/sheets/boneHound_sheet.png",
+      "x": 64,
+      "y": 128,
+      "w": 64,
+      "h": 64
+    },
+    {
+      "name": "boneHound_walk_east_2",
+      "sheet": "64x64/sheets/boneHound_sheet.png",
+      "x": 128,
+      "y": 128,
+      "w": 64,
+      "h": 64
+    },
+    {
+      "name": "boneHound_walk_north_0",
+      "sheet": "64x64/sheets/boneHound_sheet.png",
+      "x": 0,
+      "y": 192,
+      "w": 64,
+      "h": 64
+    },
+    {
+      "name": "boneHound_walk_north_1",
+      "sheet": "64x64/sheets/boneHound_sheet.png",
+      "x": 64,
+      "y": 192,
+      "w": 64,
+      "h": 64
+    },
+    {
+      "name": "boneHound_walk_north_2",
+      "sheet": "64x64/sheets/boneHound_sheet.png",
+      "x": 128,
+      "y": 192,
+      "w": 64,
+      "h": 64
+    },
+    {
+      "name": "skeleton_walk_south_0",
+      "sheet": "128x128/sheets/skeleton_sheet.png",
+      "x": 0,
+      "y": 0,
+      "w": 128,
+      "h": 128
+    },
+    {
+      "name": "skeleton_walk_south_1",
+      "sheet": "128x128/sheets/skeleton_sheet.png",
+      "x": 128,
+      "y": 0,
+      "w": 128,
+      "h": 128
+    },
+    {
+      "name": "skeleton_walk_south_2",
+      "sheet": "128x128/sheets/skeleton_sheet.png",
+      "x": 256,
+      "y": 0,
+      "w": 128,
+      "h": 128
+    },
+    {
+      "name": "skeleton_walk_west_0",
+      "sheet": "128x128/sheets/skeleton_sheet.png",
+      "x": 0,
+      "y": 128,
+      "w": 128,
+      "h": 128
+    },
+    {
+      "name": "skeleton_walk_west_1",
+      "sheet": "128x128/sheets/skeleton_sheet.png",
+      "x": 128,
+      "y": 128,
+      "w": 128,
+      "h": 128
+    },
+    {
+      "name": "skeleton_walk_west_2",
+      "sheet": "128x128/sheets/skeleton_sheet.png",
+      "x": 256,
+      "y": 128,
+      "w": 128,
+      "h": 128
+    },
+    {
+      "name": "skeleton_walk_east_0",
+      "sheet": "128x128/sheets/skeleton_sheet.png",
+      "x": 0,
+      "y": 256,
+      "w": 128,
+      "h": 128
+    },
+    {
+      "name": "skeleton_walk_east_1",
+      "sheet": "128x128/sheets/skeleton_sheet.png",
+      "x": 128,
+      "y": 256,
+      "w": 128,
+      "h": 128
+    },
+    {
+      "name": "skeleton_walk_east_2",
+      "sheet": "128x128/sheets/skeleton_sheet.png",
+      "x": 256,
+      "y": 256,
+      "w": 128,
+      "h": 128
+    },
+    {
+      "name": "skeleton_walk_north_0",
+      "sheet": "128x128/sheets/skeleton_sheet.png",
+      "x": 0,
+      "y": 384,
+      "w": 128,
+      "h": 128
+    },
+    {
+      "name": "skeleton_walk_north_1",
+      "sheet": "128x128/sheets/skeleton_sheet.png",
+      "x": 128,
+      "y": 384,
+      "w": 128,
+      "h": 128
+    },
+    {
+      "name": "skeleton_walk_north_2",
+      "sheet": "128x128/sheets/skeleton_sheet.png",
+      "x": 256,
+      "y": 384,
+      "w": 128,
+      "h": 128
+    },
+    {
+      "name": "wraith_walk_south_0",
+      "sheet": "128x128/sheets/wraith_sheet.png",
+      "x": 0,
+      "y": 0,
+      "w": 128,
+      "h": 128
+    },
+    {
+      "name": "wraith_walk_south_1",
+      "sheet": "128x128/sheets/wraith_sheet.png",
+      "x": 128,
+      "y": 0,
+      "w": 128,
+      "h": 128
+    },
+    {
+      "name": "wraith_walk_south_2",
+      "sheet": "128x128/sheets/wraith_sheet.png",
+      "x": 256,
+      "y": 0,
+      "w": 128,
+      "h": 128
+    },
+    {
+      "name": "wraith_walk_west_0",
+      "sheet": "128x128/sheets/wraith_sheet.png",
+      "x": 0,
+      "y": 128,
+      "w": 128,
+      "h": 128
+    },
+    {
+      "name": "wraith_walk_west_1",
+      "sheet": "128x128/sheets/wraith_sheet.png",
+      "x": 128,
+      "y": 128,
+      "w": 128,
+      "h": 128
+    },
+    {
+      "name": "wraith_walk_west_2",
+      "sheet": "128x128/sheets/wraith_sheet.png",
+      "x": 256,
+      "y": 128,
+      "w": 128,
+      "h": 128
+    },
+    {
+      "name": "wraith_walk_east_0",
+      "sheet": "128x128/sheets/wraith_sheet.png",
+      "x": 0,
+      "y": 256,
+      "w": 128,
+      "h": 128
+    },
+    {
+      "name": "wraith_walk_east_1",
+      "sheet": "128x128/sheets/wraith_sheet.png",
+      "x": 128,
+      "y": 256,
+      "w": 128,
+      "h": 128
+    },
+    {
+      "name": "wraith_walk_east_2",
+      "sheet": "128x128/sheets/wraith_sheet.png",
+      "x": 256,
+      "y": 256,
+      "w": 128,
+      "h": 128
+    },
+    {
+      "name": "wraith_walk_north_0",
+      "sheet": "128x128/sheets/wraith_sheet.png",
+      "x": 0,
+      "y": 384,
+      "w": 128,
+      "h": 128
+    },
+    {
+      "name": "wraith_walk_north_1",
+      "sheet": "128x128/sheets/wraith_sheet.png",
+      "x": 128,
+      "y": 384,
+      "w": 128,
+      "h": 128
+    },
+    {
+      "name": "wraith_walk_north_2",
+      "sheet": "128x128/sheets/wraith_sheet.png",
+      "x": 256,
+      "y": 384,
+      "w": 128,
+      "h": 128
+    },
+    {
+      "name": "ghoul_walk_south_0",
+      "sheet": "128x128/sheets/ghoul_sheet.png",
+      "x": 0,
+      "y": 0,
+      "w": 128,
+      "h": 128
+    },
+    {
+      "name": "ghoul_walk_south_1",
+      "sheet": "128x128/sheets/ghoul_sheet.png",
+      "x": 128,
+      "y": 0,
+      "w": 128,
+      "h": 128
+    },
+    {
+      "name": "ghoul_walk_south_2",
+      "sheet": "128x128/sheets/ghoul_sheet.png",
+      "x": 256,
+      "y": 0,
+      "w": 128,
+      "h": 128
+    },
+    {
+      "name": "ghoul_walk_west_0",
+      "sheet": "128x128/sheets/ghoul_sheet.png",
+      "x": 0,
+      "y": 128,
+      "w": 128,
+      "h": 128
+    },
+    {
+      "name": "ghoul_walk_west_1",
+      "sheet": "128x128/sheets/ghoul_sheet.png",
+      "x": 128,
+      "y": 128,
+      "w": 128,
+      "h": 128
+    },
+    {
+      "name": "ghoul_walk_west_2",
+      "sheet": "128x128/sheets/ghoul_sheet.png",
+      "x": 256,
+      "y": 128,
+      "w": 128,
+      "h": 128
+    },
+    {
+      "name": "ghoul_walk_east_0",
+      "sheet": "128x128/sheets/ghoul_sheet.png",
+      "x": 0,
+      "y": 256,
+      "w": 128,
+      "h": 128
+    },
+    {
+      "name": "ghoul_walk_east_1",
+      "sheet": "128x128/sheets/ghoul_sheet.png",
+      "x": 128,
+      "y": 256,
+      "w": 128,
+      "h": 128
+    },
+    {
+      "name": "ghoul_walk_east_2",
+      "sheet": "128x128/sheets/ghoul_sheet.png",
+      "x": 256,
+      "y": 256,
+      "w": 128,
+      "h": 128
+    },
+    {
+      "name": "ghoul_walk_north_0",
+      "sheet": "128x128/sheets/ghoul_sheet.png",
+      "x": 0,
+      "y": 384,
+      "w": 128,
+      "h": 128
+    },
+    {
+      "name": "ghoul_walk_north_1",
+      "sheet": "128x128/sheets/ghoul_sheet.png",
+      "x": 128,
+      "y": 384,
+      "w": 128,
+      "h": 128
+    },
+    {
+      "name": "ghoul_walk_north_2",
+      "sheet": "128x128/sheets/ghoul_sheet.png",
+      "x": 256,
+      "y": 384,
+      "w": 128,
+      "h": 128
+    },
+    {
+      "name": "wight_walk_south_0",
+      "sheet": "128x128/sheets/wight_sheet.png",
+      "x": 0,
+      "y": 0,
+      "w": 128,
+      "h": 128
+    },
+    {
+      "name": "wight_walk_south_1",
+      "sheet": "128x128/sheets/wight_sheet.png",
+      "x": 128,
+      "y": 0,
+      "w": 128,
+      "h": 128
+    },
+    {
+      "name": "wight_walk_south_2",
+      "sheet": "128x128/sheets/wight_sheet.png",
+      "x": 256,
+      "y": 0,
+      "w": 128,
+      "h": 128
+    },
+    {
+      "name": "wight_walk_west_0",
+      "sheet": "128x128/sheets/wight_sheet.png",
+      "x": 0,
+      "y": 128,
+      "w": 128,
+      "h": 128
+    },
+    {
+      "name": "wight_walk_west_1",
+      "sheet": "128x128/sheets/wight_sheet.png",
+      "x": 128,
+      "y": 128,
+      "w": 128,
+      "h": 128
+    },
+    {
+      "name": "wight_walk_west_2",
+      "sheet": "128x128/sheets/wight_sheet.png",
+      "x": 256,
+      "y": 128,
+      "w": 128,
+      "h": 128
+    },
+    {
+      "name": "wight_walk_east_0",
+      "sheet": "128x128/sheets/wight_sheet.png",
+      "x": 0,
+      "y": 256,
+      "w": 128,
+      "h": 128
+    },
+    {
+      "name": "wight_walk_east_1",
+      "sheet": "128x128/sheets/wight_sheet.png",
+      "x": 128,
+      "y": 256,
+      "w": 128,
+      "h": 128
+    },
+    {
+      "name": "wight_walk_east_2",
+      "sheet": "128x128/sheets/wight_sheet.png",
+      "x": 256,
+      "y": 256,
+      "w": 128,
+      "h": 128
+    },
+    {
+      "name": "wight_walk_north_0",
+      "sheet": "128x128/sheets/wight_sheet.png",
+      "x": 0,
+      "y": 384,
+      "w": 128,
+      "h": 128
+    },
+    {
+      "name": "wight_walk_north_1",
+      "sheet": "128x128/sheets/wight_sheet.png",
+      "x": 128,
+      "y": 384,
+      "w": 128,
+      "h": 128
+    },
+    {
+      "name": "wight_walk_north_2",
+      "sheet": "128x128/sheets/wight_sheet.png",
+      "x": 256,
+      "y": 384,
+      "w": 128,
+      "h": 128
+    },
+    {
+      "name": "gravebound_walk_south_0",
+      "sheet": "128x128/sheets/gravebound_sheet.png",
+      "x": 0,
+      "y": 0,
+      "w": 128,
+      "h": 128
+    },
+    {
+      "name": "gravebound_walk_south_1",
+      "sheet": "128x128/sheets/gravebound_sheet.png",
+      "x": 128,
+      "y": 0,
+      "w": 128,
+      "h": 128
+    },
+    {
+      "name": "gravebound_walk_south_2",
+      "sheet": "128x128/sheets/gravebound_sheet.png",
+      "x": 256,
+      "y": 0,
+      "w": 128,
+      "h": 128
+    },
+    {
+      "name": "gravebound_walk_west_0",
+      "sheet": "128x128/sheets/gravebound_sheet.png",
+      "x": 0,
+      "y": 128,
+      "w": 128,
+      "h": 128
+    },
+    {
+      "name": "gravebound_walk_west_1",
+      "sheet": "128x128/sheets/gravebound_sheet.png",
+      "x": 128,
+      "y": 128,
+      "w": 128,
+      "h": 128
+    },
+    {
+      "name": "gravebound_walk_west_2",
+      "sheet": "128x128/sheets/gravebound_sheet.png",
+      "x": 256,
+      "y": 128,
+      "w": 128,
+      "h": 128
+    },
+    {
+      "name": "gravebound_walk_east_0",
+      "sheet": "128x128/sheets/gravebound_sheet.png",
+      "x": 0,
+      "y": 256,
+      "w": 128,
+      "h": 128
+    },
+    {
+      "name": "gravebound_walk_east_1",
+      "sheet": "128x128/sheets/gravebound_sheet.png",
+      "x": 128,
+      "y": 256,
+      "w": 128,
+      "h": 128
+    },
+    {
+      "name": "gravebound_walk_east_2",
+      "sheet": "128x128/sheets/gravebound_sheet.png",
+      "x": 256,
+      "y": 256,
+      "w": 128,
+      "h": 128
+    },
+    {
+      "name": "gravebound_walk_north_0",
+      "sheet": "128x128/sheets/gravebound_sheet.png",
+      "x": 0,
+      "y": 384,
+      "w": 128,
+      "h": 128
+    },
+    {
+      "name": "gravebound_walk_north_1",
+      "sheet": "128x128/sheets/gravebound_sheet.png",
+      "x": 128,
+      "y": 384,
+      "w": 128,
+      "h": 128
+    },
+    {
+      "name": "gravebound_walk_north_2",
+      "sheet": "128x128/sheets/gravebound_sheet.png",
+      "x": 256,
+      "y": 384,
+      "w": 128,
+      "h": 128
+    },
+    {
+      "name": "boneHound_walk_south_0",
+      "sheet": "128x128/sheets/boneHound_sheet.png",
+      "x": 0,
+      "y": 0,
+      "w": 128,
+      "h": 128
+    },
+    {
+      "name": "boneHound_walk_south_1",
+      "sheet": "128x128/sheets/boneHound_sheet.png",
+      "x": 128,
+      "y": 0,
+      "w": 128,
+      "h": 128
+    },
+    {
+      "name": "boneHound_walk_south_2",
+      "sheet": "128x128/sheets/boneHound_sheet.png",
+      "x": 256,
+      "y": 0,
+      "w": 128,
+      "h": 128
+    },
+    {
+      "name": "boneHound_walk_west_0",
+      "sheet": "128x128/sheets/boneHound_sheet.png",
+      "x": 0,
+      "y": 128,
+      "w": 128,
+      "h": 128
+    },
+    {
+      "name": "boneHound_walk_west_1",
+      "sheet": "128x128/sheets/boneHound_sheet.png",
+      "x": 128,
+      "y": 128,
+      "w": 128,
+      "h": 128
+    },
+    {
+      "name": "boneHound_walk_west_2",
+      "sheet": "128x128/sheets/boneHound_sheet.png",
+      "x": 256,
+      "y": 128,
+      "w": 128,
+      "h": 128
+    },
+    {
+      "name": "boneHound_walk_east_0",
+      "sheet": "128x128/sheets/boneHound_sheet.png",
+      "x": 0,
+      "y": 256,
+      "w": 128,
+      "h": 128
+    },
+    {
+      "name": "boneHound_walk_east_1",
+      "sheet": "128x128/sheets/boneHound_sheet.png",
+      "x": 128,
+      "y": 256,
+      "w": 128,
+      "h": 128
+    },
+    {
+      "name": "boneHound_walk_east_2",
+      "sheet": "128x128/sheets/boneHound_sheet.png",
+      "x": 256,
+      "y": 256,
+      "w": 128,
+      "h": 128
+    },
+    {
+      "name": "boneHound_walk_north_0",
+      "sheet": "128x128/sheets/boneHound_sheet.png",
+      "x": 0,
+      "y": 384,
+      "w": 128,
+      "h": 128
+    },
+    {
+      "name": "boneHound_walk_north_1",
+      "sheet": "128x128/sheets/boneHound_sheet.png",
+      "x": 128,
+      "y": 384,
+      "w": 128,
+      "h": 128
+    },
+    {
+      "name": "boneHound_walk_north_2",
+      "sheet": "128x128/sheets/boneHound_sheet.png",
+      "x": 256,
+      "y": 384,
+      "w": 128,
+      "h": 128
+    }
+  ]
+}

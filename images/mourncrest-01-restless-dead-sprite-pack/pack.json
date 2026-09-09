@@ -1,0 +1,102 @@
+{
+  "packId": "mourncrest-01-restless-dead",
+  "title": "Mourncrest 01: The Restless Dead [64x64]",
+  "displayTitle": "The Restless Dead",
+  "tagline": "Six undead, one style",
+  "series": {
+    "name": "Mourncrest",
+    "number": 1
+  },
+  "cellSize": 64,
+  "gridVariants": [
+    64,
+    128
+  ],
+  "palette": [
+    "#241d2e",
+    "#f2e6cc",
+    "#5b5560",
+    "#ad9878",
+    "#4a5c4e",
+    "#8a9468",
+    "#453357",
+    "#6b4a7e",
+    "#a87ab0",
+    "#45536f",
+    "#6b7c93",
+    "#b4bec2",
+    "#8c2f2f",
+    "#cf6242",
+    "#1f6b6b",
+    "#4fd6c4",
+    "#080f19",
+    "#2b2053",
+    "#7d7252",
+    "#383933",
+    "#6d3069",
+    "#573e7d",
+    "#2d1d39",
+    "#141412",
+    "#431848",
+    "#0d0a17",
+    "#a861a9",
+    "#6d4728",
+    "#786669",
+    "#f4faf9",
+    "#dcb01a",
+    "#d7dbae",
+    "#3d2a1a",
+    "#5a3f28",
+    "#87613e",
+    "#9d7b56",
+    "#e2cef1",
+    "#09080a",
+    "#1a0e26",
+    "#b49bcb",
+    "#2e4e2c",
+    "#7f6696",
+    "#ddab90",
+    "#532f33",
+    "#b47c67",
+    "#0c0910",
+    "#261538",
+    "#543e6b"
+  ],
+  "directions": [
+    "south",
+    "west",
+    "east",
+    "north"
+  ],
+  "sheetLayout": {
+    "columns": "animation frame index, 0..n-1",
+    "rows": [
+      "south",
+      "west",
+      "east",
+      "north"
+    ],
+    "note": "Row order is down/left/right/up — RPG Maker character-sheet order. frames.json gives every frame's x/y/w/h. ⚠️ boneHound is the one exception to the row semantics: it is drawn in side view in all four rows. See boneHoundViewNote."
+  },
+  "animations": {
+    "walk": 3
+  },
+  "characters": [
+    "skeleton",
+    "wraith",
+    "ghoul",
+    "wight",
+    "gravebound",
+    "boneHound"
+  ],
+  "characterRoles": {
+    "skeleton": "The rank and file of the barrow. A spear standing clear above the skull.",
+    "wraith": "A hooded revenant in a long grave-cloth coat. Skeletal claws at the cuffs and a heavy boot stride.",
+    "ghoul": "Bent double. Head thrust forward past its own shoulders.",
+    "wight": "The barrow-king. The broadest, hardest silhouette in the pack.",
+    "gravebound": "Half-swallowed by the barrow. A wide mound instead of legs.",
+    "boneHound": "The barrow's dog. The only four-legged thing in the pack. DRAWN IN SIDE VIEW IN ALL FOUR DIRECTIONS - see boneHoundViewNote."
+  },
+  "generator": "PixelLab (pixflux 128px -> /rotate -> /animate-with-skeleton), palette-locked by Kernel/sprites/pixelise.js. Every offered grid is native at that size.",
+  "boneHoundViewNote": "boneHound is drawn in SIDE VIEW in all four directions. Its east and west frames are true opposed profiles; its south and north frames are side views too, not a front and a back view. This is deliberate and it is a limitation, not an oversight: a skeletal quadruped seen head-on is a view our generator cannot hold while also holding the bare-bone anatomy - three attempts across two years of tooling are on record, and each one returned either a correct front view of a LIVE dog or a correct skeleton back in profile. Every other character in this pack has true front, back and opposed side views. If you need a strict four-direction hound, use this one as a side-facing creature, or use its east/west frames for all movement."
+}
