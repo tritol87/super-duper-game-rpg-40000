@@ -21,19 +21,17 @@ func _physics_process(delta):
 		velocity = direction * move_speed
 	
 	move_and_slide()
+	#Снизу хуйня яка робить анімації нормальними 
 	if velocity.length() > 0:
 		if abs(velocity.x) > abs(velocity.y):
-			# Рух переважно вліво/вправо
 			$AnimatedSprite2D.play("side_run")
 			$AnimatedSprite2D.flip_h = velocity.x > 0
 			
 		elif velocity.y < 0:
-			# Рух переважно вгору
 			$AnimatedSprite2D.play("top_run")
 			$AnimatedSprite2D.flip_h = false
 			
 		else:
-			# Рух переважно вниз
 			$AnimatedSprite2D.play("down_run")
 			$AnimatedSprite2D.flip_h = false
 	else:
