@@ -12,18 +12,20 @@ var stats = {
 
 func _change_stats(attribute, score):
 	stats = [attribute] + score
-	return stats
 	_stats_was_changed()
+	return stats
+	
 	
 func _stats_was_changed():
 	_hp_and_mana_calculate(stats)
 	
-func _hp_and_mana_calculate(stats):
+func _hp_and_mana_calculate(player_stats):
 	var hp = stats["strenght"] * 5
 	var mana = stats["intelliegence"] * 5
 	return hp and mana
 
 func _ready():
+	GameState.player = self
 	screen_size = get_viewport_rect().size
 	global_position = GameState.player_position
 
@@ -33,7 +35,7 @@ func _unhandled_input(event):
 			
 			$NavigationAgent2D.target_position = get_global_mouse_position()
 	
-func _physics_process(delta):
+func _physics_process(_delta):
 	if $NavigationAgent2D.is_navigation_finished():
 		velocity = Vector2.ZERO
 	else:
