@@ -1,0 +1,103 @@
+[gd_scene format=3 uid="uid://5p3bpsv60v8w"]
+
+[ext_resource type="PackedScene" uid="uid://bebx4uwqtoxd6" path="res://inventory/inventory_slot.tscn" id="1_pcc43"]
+
+[node name="inventory_panel" type="Panel" unique_id=211022040]
+offset_right = 620.4
+offset_bottom = 517.0
+
+[node name="GridContainer" type="GridContainer" parent="." unique_id=1891232933]
+layout_mode = 0
+offset_right = 240.81633
+offset_bottom = 200.0
+columns = 6
+
+[node name="inventory_slot1" parent="GridContainer" unique_id=1551184325 instance=ExtResource("1_pcc43")]
+layout_mode = 2
+
+[node name="inventory_slot2" parent="GridContainer" unique_id=1095980449 instance=ExtResource("1_pcc43")]
+layout_mode = 2
+
+[node name="inventory_slot3" parent="GridContainer" unique_id=279274715 instance=ExtResource("1_pcc43")]
+layout_mode = 2
+
+[node name="inventory_slot4" parent="GridContainer" unique_id=669370379 instance=ExtResource("1_pcc43")]
+layout_mode = 2
+
+[node name="inventory_slot5" parent="GridContainer" unique_id=260772186 instance=ExtResource("1_pcc43")]
+layout_mode = 2
+
+[node name="inventory_slot6" parent="GridContainer" unique_id=958408401 instance=ExtResource("1_pcc43")]
+layout_mode = 2
+
+[node name="inventory_slot7" parent="GridContainer" unique_id=1580184837 instance=ExtResource("1_pcc43")]
+layout_mode = 2
+
+[node name="inventory_slot8" parent="GridContainer" unique_id=887356362 instance=ExtResource("1_pcc43")]
+layout_mode = 2
+
+[node name="inventory_slot9" parent="GridContainer" unique_id=1147797661 instance=ExtResource("1_pcc43")]
+layout_mode = 2
+
+[node name="inventory_slot10" parent="GridContainer" unique_id=1770193122 instance=ExtResource("1_pcc43")]
+layout_mode = 2
+
+[node name="inventory_slot11" parent="GridContainer" unique_id=445770296 instance=ExtResource("1_pcc43")]
+layout_mode = 2
+
+[node name="inventory_slot12" parent="GridContainer" unique_id=1339820815 instance=ExtResource("1_pcc43")]
+layout_mode = 2
+
+[node name="inventory_slot13" parent="GridContainer" unique_id=961154937 instance=ExtResource("1_pcc43")]
+layout_mode = 2
+
+[node name="inventory_slot14" parent="GridContainer" unique_id=1135670833 instance=ExtResource("1_pcc43")]
+layout_mode = 2
+
+[node name="inventory_slot15" parent="GridContainer" unique_id=1977424576 instance=ExtResource("1_pcc43")]
+layout_mode = 2
+
+[node name="inventory_slot16" parent="GridContainer" unique_id=1302410641 instance=ExtResource("1_pcc43")]
+layout_mode = 2
+
+[node name="inventory_slot17" parent="GridContainer" unique_id=1037259188 instance=ExtResource("1_pcc43")]
+layout_mode = 2
+
+[node name="inventory_slot18" parent="GridContainer" unique_id=1343876372 instance=ExtResource("1_pcc43")]
+layout_mode = 2
+
+[node name="inventory_slot19" parent="GridContainer" unique_id=412856809 instance=ExtResource("1_pcc43")]
+layout_mode = 2
+
+[node name="inventory_slot20" parent="GridContainer" unique_id=353149538 instance=ExtResource("1_pcc43")]
+layout_mode = 2
+
+[node name="inventory_slot21" parent="GridContainer" unique_id=857355373 instance=ExtResource("1_pcc43")]
+layout_mode = 2
+
+[node name="inventory_slot22" parent="GridContainer" unique_id=2106545141 instance=ExtResource("1_pcc43")]
+layout_mode = 2
+
+[node name="inventory_slot23" parent="GridContainer" unique_id=1795646485 instance=ExtResource("1_pcc43")]
+layout_mode = 2
+
+[node name="inventory_slot24" parent="GridContainer" unique_id=764907248 instance=ExtResource("1_pcc43")]
+layout_mode = 2
+
+[node name="inventory_slot25" parent="GridContainer" unique_id=2030543614 instance=ExtResource("1_pcc43")]
+layout_mode = 2
+
+[node name="inventory_slot26" parent="GridContainer" unique_id=513671763 instance=ExtResource("1_pcc43")]
+layout_mode = 2
+
+[node name="inventory_slot27" parent="GridContainer" unique_id=1270329005 instance=ExtResource("1_pcc43")]
+layout_mode = 2
+
+[node name="inventory_slot28" parent="GridContainer" unique_id=842055070 instance=ExtResource("1_pcc43")]
+layout_mode = 2
+
+[node name="inventory_slot29" parent="GridContainer" unique_id=891209853 instance=ExtResource("1_pcc43")]
+layout_mode = 2
+
+[node name="inventory_slot30" parent="GridContainer" unique_id=2120384396 instance=ExtResource("1_pcc43")]
+layout_mode = 2
