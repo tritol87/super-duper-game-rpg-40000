@@ -21,7 +21,7 @@ func _stats_was_changed():
 	
 func _hp_and_mana_calculate(player_stats):
 	var hp = stats["strenght"] * 5
-	var mana = stats["intelliegence"] * 5
+	var mana = stats["intelligence"] * 5
 	return hp and mana
 
 func _ready():
